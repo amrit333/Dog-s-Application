@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Android Studio Change By Tech Wealth coach"
+        android:text="Hello We Are Glad To Learn This very beutifull and Importanc Concept of Software Development"
         android:gravity="center"
         android:textSize="20sp"
 
